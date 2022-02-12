@@ -1,0 +1,22 @@
+.container{
+    width: 20rem;
+    height: 50px;
+    display: inline-block;
+    align-items: center;
+    margin: 15px;
+}
+
+#logo{
+    border-radius: 50%;
+    font-size: 40px;
+}
+
+.text-logo img {
+    max-width: 3rem;
+    max-height: 3rem;
+  }
+  .text-logo {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+  }

@@ -1,0 +1,11 @@
+.bg-header{
+    background-color: black;
+    color: white;
+    height: 5rem;
+    width: min(100% 120rem);
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+}
